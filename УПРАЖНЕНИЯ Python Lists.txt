@@ -1,0 +1,131 @@
+Python Lists
+
+Lists are used absolutely everywhere:
+✔️ backend
+✔️ web apps
+✔️ databases
+✔️ APIs
+✔️ games
+✔️ automation
+
+🧠 What is a List?
+
+List = a collection of values.
+
+Example:
+
+fruits = ["apple", "banana", "orange"]
+
+EXERCISE: Python Lists
+
+We will go through:
+✔️ create
+✔️ access
+✔️ change
+✔️ add
+✔️ remove
+✔️ length
+✔️ loops basics
+
+🟢 Task 1 – Create a List
+
+Create a list with 3 favorite foods.
+
+Example:
+
+foods = ["pizza", "burger", "pasta"]
+
+Print the entire list.
+
+🟢 Task 2 – Access element
+
+You have:
+
+colors = ["red", "blue", "green"]
+
+👉 Print:
+
+first element
+
+last element
+🟡 Task 3 – Change value
+
+You have:
+
+cars = ["BMW", "Audi", "Mercedes"]
+
+👉 Replace "Audi" with "Toyota"
+
+🟡 Task 4 – Add element
+
+You have:
+
+numbers = [1, 2, 3]
+
+👉 Add 4
+
+👉 hint:
+
+.append()
+🟡 Task 5 – Remove element
+
+You have:
+
+animals = ["cat", "dog", "bird"]
+
+👉 Remove "dog"
+
+👉 hint:
+
+.remove()
+🟡 Task 6 – List Length
+
+You have:
+
+students = ["Ivan", "Maria", "Peter", "Anna"]
+
+👉 Print how many elements there are.
+
+👉 hint:
+
+len()
+🔴 Task 7 – Check element
+
+You have:
+
+fruits = ["apple", "banana", "orange"]
+
+👉 Check if "banana" is in the list.
+
+👉 hint:
+
+in
+🔴 Task 8 – Loop through list
+
+You have:
+
+games = ["CS2", "Minecraft", "FIFA"]
+
+👉 Print each element individually with for.
+
+🔥 BONUS 1 – Mixed List
+
+Create a list with:
+
+string
+int
+float
+bool
+🔥 BONUS 2 – Mini Food Menu
+
+Make:
+
+menu = ["Pizza", "Burger", "Pasta"]
+
+Print:
+
+--- MENU ---
+
+1. Pizza
+2. Burger
+3. Pasta

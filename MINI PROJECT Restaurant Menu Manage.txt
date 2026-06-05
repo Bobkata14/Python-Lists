@@ -1,0 +1,76 @@
+MINI PROJECT: Restaurant Menu Manager
+🎯 Goal
+
+To make a program that manages a restaurant menu.
+
+📋 Requirements
+1️⃣ Create a menu
+
+Make a list of at least 5 dishes:
+
+menu = [...]
+2️⃣ Show the menu
+
+The program should output something like this:
+
+--- FOOD PALACE MENU ---
+
+1. Pizza
+2. Pasta
+3. Burger
+4. Salad
+5. Cola
+3️⃣ Add a new product
+
+Use:
+
+append()
+
+Add a new dish to the menu.
+
+Then print the menu again.
+
+4️⃣ Remove a product
+
+Use:
+
+remove()
+
+Remove a dish.
+
+Then print the menu again.
+
+5️⃣ Check if a product exists
+
+Check if, for example:
+
+"Pizza"
+
+is in the menu.
+
+Display an appropriate message.
+
+6️⃣ Show statistics
+
+Return:
+
+How many products are in the menu (len())
+
+First product
+
+Last product
+🔥 BONUS 1
+
+Show all products using:
+
+for item in menu:
+🔥 BONUS 2
+
+Create:
+
+restaurant_name = "Food Palace"
+
+and show the title using:
+
+.upper()
+.center()
